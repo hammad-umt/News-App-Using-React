@@ -42,8 +42,10 @@ cd News-App-Using-React
 ```
 3.Install dependencies
 ```bash
-npm install #or yarn install ```
+npm install #or yarn install
+```
 4.Start the development server
 ```bash
-npm start #or yarn start ```
+npm start #or yarn start
+```
 Open http://localhost:3000 to view the app in your browser.
